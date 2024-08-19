@@ -13,8 +13,10 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url("fundo.jpg");
-}
+    background-image: url("fundo.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
 
 .caixa-maior {
     background: #000000;
